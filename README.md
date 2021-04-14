@@ -1,4 +1,5 @@
-# SnakeGame-Java
-A simplistic game of snake I programmed back in college (2014ish). Java / GUI.
+# SnakeGame-JavaGUI
+A simplistic game of snake I put together back in university. Made with Java GUI
 
-I drew the tiny pixel apple icon. I release it to the public domain, if anyone wants to use it.
+
+Feel free to use the apple pixel for anything, I release it to the public domain
