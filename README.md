@@ -11,6 +11,6 @@ https://user-images.githubusercontent.com/80881875/114849370-ab133d80-9dad-11eb-
 ![fruit](https://user-images.githubusercontent.com/80881875/114849593-e877cb00-9dad-11eb-9ea3-4ebb7c09d7ba.gif) *Notes and Controls* ![fruit](https://user-images.githubusercontent.com/80881875/114849593-e877cb00-9dad-11eb-9ea3-4ebb7c09d7ba.gif)
 - Basic Rules: The object of the game is to eat as many apples as possible for a high score. The snake grows in length with each apple it consumes. Its speed also gradually increases. The game ends if the snake collides with itself or the game border.
 - Controls: Move the snake with the traditional arrow keys ⬆⬇⬅➡
-- Source code isn't included here for homework reasons, but loosely: four class files make up this project. Two of the classes are JPanel extensions (the ScorePanel at the top, and GamePanel with snake and apples); one class, 'Square', represents each segment of the snake; and the last class Snake.java that puts them all together and starts the game.
+- Source code isn't included here, but here's how it's structured: four class files make up this project. Two of the classes are JPanel extensions (the ScorePanel at the top, and GamePanel with snake and apples); one class, 'Square', represents each segment of the snake; and the last class Snake.java that puts them all together and starts the game.
 
 Feel free to use the apple pixel for anything. I release it to the public domain.
