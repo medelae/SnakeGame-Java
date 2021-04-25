@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/80881875/114849370-ab133d80-9dad-11eb-
 - Source code isn't included here, but here's how it's structured: four class files make up this project. Two of the classes are JPanel extensions (the ScorePanel at the top, and GamePanel with snake and apples); one class, 'Square', represents each segment of the snake; and the last class Snake.java that puts them all together and starts the game.
 - For the increasing Snake speed (decreasing time interval t between square movements): I was going to use an asymptotic function, but after play-testing it a bunch I hard-coded the speed levels instead for an improved UX. There are 8 total speed levels including the default.
 
-Feel free to use the apple pixel for anything. I release it to the public domain.
+Feel free to use the apple (or uh, tomato) pixel for anything. I release it to the public domain.
